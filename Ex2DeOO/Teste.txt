@@ -1,0 +1,4 @@
+Nome;Custo;Preco;Cor
+Cadeira;300.0;399.0;Branco;
+Mesa;500.0;1000.0;Preta;
+Tapete;230.0;270.0;Azul;

@@ -1,0 +1,2 @@
+Codigo;Especie;Raca;Idade;Peso;
+201;Cachorro;Golden Retriever;3;30.0;202;Gato;Siames;2;4.0;203;Papagaio;Araruana;5;1.0;204;Cavalo;Puro-Sangue Ingles;6;500.0;
